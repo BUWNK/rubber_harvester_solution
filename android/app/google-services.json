@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87918359587",
+    "project_id": "rubberx-f3daf",
+    "storage_bucket": "rubberx-f3daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87918359587:android:9e10b86d59bbcae9fa2d96",
+        "android_client_info": {
+          "package_name": "com.example.rubberx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8x-VM1tR5pU2rMXp_-OE8qV1oWSUKKBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
